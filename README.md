@@ -1,4 +1,4 @@
-# Anthropic Agents Interview Practice
+# Agents Interview Practice
 
 A deliberately imperfect tool-using agent for a 50-minute interview practice run.
 
